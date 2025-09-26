@@ -1,0 +1,8 @@
+BATTLE_PASS	Pass de combat
+BATTLE_PASS_MISSION_NAME	Nom Mission
+BATTLE_PASS_MISSION_STATUS	Status
+BATTLE_PASS_MISSION_INFO	Information
+BATTLE_PASS_INFO	Information Pass de Combat
+BATTLE_PASS_FINISHED	Terminer à: (pas terminer)
+BATTLE_PASS_DESCRIPTION	Description Mission
+BATTLE_PASS_TOTAL_PROGRESS	Progres total

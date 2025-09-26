@@ -1,0 +1,14 @@
+1	La ruée sur les chiens errants	Restant: %s	Monstre: |cffff9d9d|H|h%s|h|r	Tuer |cffff9d9d|H|h%s|h|r!	Terminez la mission pour recevoir votre	récompense.
+2	Gratter de la pierre	Dommage à atteindre: %s	Niveau Minimum: |cffff9d9d|H|h%s|h|r	Frapper les joueurs de niveau |cffff9d9d|H|h%s|h|r ou +	Terminez la mission pour recevoir votre	récompense.
+3	Chercheur d'or !	Yang à farm: %s	Farmer sur: n'importe quel monstre	Farmer des yangs pour terminer	la mission et obtenir vos	récompense.
+4	Casse de la pierre	Restant: %s	Monstre: |cffff9d9d|H|h%s|h|r	Tuer |cffff9d9d|H|h%s|h|r!	Terminez la mission pour recevoir votre	récompense.
+5	Pirate	Restant: %s	Monstre: |cffff9d9d|H|h%s|h|r	Tuer |cffff9d9d|H|h%s|h|r!	Terminez la mission pour recevoir votre	récompense.
+6	La Reine !!!	Restant: %s	Monstre: |cffff9d9d|H|h%s|h|r	Tuer |cffff9d9d|H|h%s|h|r!	Terminez la mission pour recevoir votre	récompense.
+7	Le craft magique	Objet(s) à craft: %s	Objet: |cffff9d9d|H|h%s|h|r	Crafter |cffff9d9d|H|h%s|h|r	Terminez la mission pour recevoir votre	récompense.
+8	Les démons	Effectuer l'instance: %s	Restant: |cffff9d9d|H|h%s|h|r	Accomplir |cffff9d9d|H|h%s|h|r	Terminez la mission pour recevoir votre	récompense.
+9	PAPA !	Restant: %s	Monstre: |cffff9d9d|H|h%s|h|r	Tuer |cffff9d9d|H|h%s|h|r!	Terminez la mission pour recevoir votre	récompense.
+10	Ennemis	Restant: %s	Niveau minimum: |cffff9d9d|H|h%s|h|r	Tuer des joueurs de niveau |cffff9d9d|H|h%s|h|r ou +	Terminez la mission pour recevoir votre	récompense.
+11	Les pierres d'esprits	Objet(s) à utiliser: %s	Objet: |cffff9d9d|H|h%s|h|r	Utilisation |cffff9d9d|H|h%s|h|r	Terminez la mission pour recevoir votre	récompense.
+12	On va à la pêche ?	Poisson à pêcher: %s	Poisson: Tout poisson	Pêcher n'importe quel poisson pour terminer	la mission et obtenir vos	récompense.
+13	Les montures	Objet(s) à utiliser: %s	Objet: |cffff9d9d|H|h%s|h|r	Utilisation |cffff9d9d|H|h%s|h|r	Terminez la mission pour recevoir votre	récompense.
+14	A la casse !	Objet(s) à détruire: %s	Objet: |cffff9d9d|H|h%s|h|r	Détruire |cffff9d9d|H|h%s|h|r	Terminer la mission pour recevoir votre	récompense.
